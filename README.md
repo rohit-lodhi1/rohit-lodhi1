@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 💬 Ask me about **Java , Angular**
+- 💬 Ask me about **Java , Angular, MYSQL**
 
 - 📫 How to reach me **rohitlodhi107@gmail.com**
 
